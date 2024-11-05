@@ -2,7 +2,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #F05033;
+    background-color: #f033d7;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -10,7 +10,7 @@ h1 {
     width: 80%;
     border-radius: 10px;
     font-size: 35px;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     text-align: center;
     padding: 10px;
 }
